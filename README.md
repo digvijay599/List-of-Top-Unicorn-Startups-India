@@ -126,6 +126,10 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 | [Flipkart](https://www.flipkartcareers.com/#!/) |	E-commerce |	2007 |	2012 |	-$307 Million |	$37.6 Billion |	18 |	Unlisted
 | [InMobi](https://www.inmobi.com/company/careers) |	Adtech |	2007 |	2011 |	-$9 Million |	$1 Billion |	10 |	Unlisted
 | [MakeMyTrip](https://careers.makemytrip.com/) |	Online Travel |	2000 |	2010 |	-$56 Million |	$2.52 Billion |	9 |	Listed
+| Zoho |	SaaS |	1996  |	- |	$1 Billion |   $15 Billion |	- |	Private |
+| Zepto |	Quick Commerce |	2021 |	2023 |	-$47.1 Million |	$1.4 Billion |	- |	Private |
+| Molbio Diagnostics |	HealthTech, MedTech |	2010 |	2022 |	NA |	$1.5 Billion |	1 |	Private |
+| Tata 1mg |	HealthTech |	2015 |	2022 |	-$65 Million |	$1.25 Billion |	- |	Acquired
 
 #
 <p align="center">
